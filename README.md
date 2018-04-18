@@ -1,0 +1,2 @@
+# Contracts
+LigerCoin Smart Contract
